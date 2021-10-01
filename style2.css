@@ -1,0 +1,5 @@
+/* Gestalte das HTML-Element mit dem Namen body */
+body {
+  background-color: #000001; /* Hintergrundfarbe */
+  color: white; /* Schriftfarbe */
+}
